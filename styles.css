@@ -1,0 +1,20 @@
+* {
+  background-color: #eeeedd;
+  color: #58381f;
+  font-family: Papyrus, Monaco, sans-serif;
+}
+
+img {
+  height: 280px;
+  width: auto;
+  box-shadow: 4px 4px 15px #0c0c0c;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #d16014;
+  font-weight: bold;
+}
