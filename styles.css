@@ -1,13 +1,21 @@
 * {
   background-color: #eeeedd;
   color: #58381f;
-  font-family: Papyrus, Monaco, sans-serif;
+  font-family: Monaco, sans-serif;
 }
 
 img {
   height: 280px;
   width: auto;
   box-shadow: 4px 4px 15px #0c0c0c;
+}
+
+div {
+  margin: 10px;
+}
+
+.description {
+  display: inline;
 }
 
 a {
@@ -17,4 +25,24 @@ a {
 a:hover {
   color: #d16014;
   font-weight: bold;
+}
+
+h1 {
+  text-align: center;
+  padding: 10px;
+}
+
+.recipe-list {
+  padding: 10px 30px;
+}
+
+.recipe-list-items {
+  margin: 5px;
+}
+
+.card {
+  background-color: #dec584;
+  padding: 8px;
+  width: 400px;
+  margin: auto;
 }
